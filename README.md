@@ -12,3 +12,4 @@ Uma atividade simples que requeria operações manuais e a possibilidade de falh
 Com esse código consegui gerar mais eficiência e segurança na atividade.
 
 
+Importante: Atributos do código são fictícios.
